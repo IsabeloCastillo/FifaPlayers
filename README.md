@@ -18,6 +18,6 @@ Librerías de Visualización de Datos: Seaborn, Matplotlib.
 Librerías de Machine Learning: Scikit-learn, incluyendo modelos como Regresión Logística, SVM, Random Forest, KNN, Naive Bayes, Perceptrón, SGD, y Árboles de Decisión.
 Métricas y Herramientas de Validación: Accuracy, Precision, Recall, F1 Score, Matriz de Confusión, Reporte de Clasificación, Cross-Validation, y OneHotEncoder.
 
-![Portada del proyecto](https://github.com/IsabeloCastillo/FifaPlayers/blob/main/ImagenRecuento.png)
+![Portada del proyecto](https://github.com/IsabeloCastillo/FifaPlayers/blob/main/DashBoardRecuentos.png)
 
 ##### Si encuentras este dataset útil, por favor, apoya con un 👍.
